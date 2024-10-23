@@ -2,7 +2,7 @@
 
 
 ## Membuat Analisis Pertandingan Premier League.
- <img src="https://github.com/Silver4sh/premier_league/blob/main/result/football_stats.png" alt="analisis_premier_league" width="5453" height="1907"/>
+ <img src="https://github.com/Silver4sh/premier_league/blob/main/result/football_stats.png" alt="analisis_premier_league" width="545.3" height="190.7"/>
 
 
 
