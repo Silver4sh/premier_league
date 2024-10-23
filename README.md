@@ -7,4 +7,4 @@
 
 
 ## Membuat Prediksi Pertandingan yang akan datang.
- <img src="https://github.com/Silver4sh/premier_league/blob/main/result/predict_score.png" alt="python" width="575" height="293"/>
+ <img src="https://github.com/Silver4sh/premier_league/blob/main/result/predict_score.png" alt="predict_premier_league" width="575" height="293"/>
