@@ -1,10 +1,11 @@
-# Prediksi dan Analisis Pertandingan Premier League
+ # Premier League Predictor
 
+**Premier League Predictor** adalah aplikasi desktop berbasis Python yang memungkinkan pengguna untuk:
+- Menampilkan klasemen Liga Inggris dengan format yang rapi.
+- Melakukan prediksi pertandingan (termasuk skor) menggunakan model Machine Learning (RandomForestClassifier).
+- Menggunakan antarmuka grafis (GUI) dengan Tkinter agar lebih interaktif.
 
-## Membuat Analisis Pertandingan Premier League.
- <img src="https://github.com/Silver4sh/premier_league/blob/main/result/football_stats.png" alt="analisis_premier_league" width="545.3" height="190.7"/>
+## Fitur Utama
 
-
-
-## Membuat Prediksi Pertandingan yang akan datang.
- <img src="https://github.com/Silver4sh/premier_league/blob/main/result/predict_score.png" alt="predict_premier_league" width="575" height="293"/>
+- **Tampilan Klasemen:** Data klasemen ditampilkan dalam jendela baru dengan format yang rapi.
+- **Prediksi Pertandingan:** Menggunakan dua model (satu untuk prediksi gol kandang dan satu untuk gol tandang) untuk memprediksi hasil pertandingan, termasuk skor dan hasil akhir (menang, kalah, atau seri).
